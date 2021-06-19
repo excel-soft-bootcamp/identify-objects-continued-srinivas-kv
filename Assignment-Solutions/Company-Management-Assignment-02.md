@@ -13,5 +13,5 @@
 
 ## Class diagram
 
-
+![class-diagram](images/company_management_objects.png)
 
